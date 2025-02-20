@@ -1,59 +1,75 @@
-<h2 align="left">Hello, Who I Am</h2>
+<h1 align="center">Hi 👋, I'm Ahmed Elazazy</h1>
+<h3 align="center">.NET Backend Developer | C# | ASP.NET | SQL</h3>
 
-###
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=elazazy424&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-<p align="left">I'm Zeyad Wael Abdallah – a dedicated Software Engineer specializing in .NET and React and Angular. With over 3 years of experience, I design and build scalable web applications and robust RESTful APIs. I thrive on optimizing database performance, implementing DevOps practices, and applying proven design patterns to create efficient, maintainable solutions. Welcome to my GitHub, where my passion for quality software development comes to life.</p>
+## 🚀 About Me
+🎓 **Computer Science Graduate** from HICIT.  
+💻 **.NET Backend Developer** with 1 year of experience.  
+⚡ Strong skills in **C#, ASP.NET MVC/Web API, and SQL** with a focus on **performance, security, and scalability**.  
+🛠️ Passionate about **API development, database optimization, and problem-solving**.  
 
-###
+## 📫 Connect with Me  
+<a href="https://www.linkedin.com/in/ahmed-elazazy-791b61221" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40" />
+</a>
+<a href="https://www.facebook.com/Uncompromising.rider.2/" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="40" height="40" />
+</a>  
+📧 *Email:* ahmedelazazywork@gmail.com
 
-<br clear="both">
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZeyadWaell&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ZeyadWaell&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=buefy&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
+## 🛠 Tech Stack  
 
-###
+### 💻 Languages & Frameworks  
+<p align="left">
+  <a href="https://learn.microsoft.com/en-us/aspnet/core/?view=aspnetcore-8.0" target="_blank">
+    <img src="https://github.com/get-icon/geticon/blob/master/icons/dotnet.svg" alt=".NET" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/cs/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  </a>
+  <a href="https://www.java.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+</p>
 
-<img src="https://raw.githubusercontent.com/ZeyadWaell/ZeyadWaell/output/snake.svg" alt="Snake animation" />
+### 🗄️ Databases & Cloud  
+<p align="left">
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/>
+  </a>
+</p>
 
-###
+### 🌐 Web Technologies  
+<p align="left">
+  <a href="https://www.w3schools.com/html/" target="_blank">
+    <img src="https://github.com/get-icon/geticon/blob/master/icons/html-5.svg" alt="HTML5" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://github.com/get-icon/geticon/blob/master/icons/css-3.svg" alt="CSS3" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/js/" target="_blank">
+    <img src="https://github.com/get-icon/geticon/blob/master/icons/javascript.svg" alt="JavaScript" width="40" height="40"/>
+  </a>
+</p>
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-</div>
+---
 
-###
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=elazazy424&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/ZeyadWaell/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=ZeyadWaell&theme=dark" alt="Layout with last medium posts"  />
-</div>
-
-###
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=elazazy424&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
