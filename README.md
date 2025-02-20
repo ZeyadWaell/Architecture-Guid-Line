@@ -1,59 +1,59 @@
-<h2 align="left">Hello, I'm Zeyad Wael Abdallah</h2>
+<h2 align="left">Hello, Who I Am</h2>
 
-<p align="left">
-I am a passionate Software Engineer with expertise in <strong>.NET</strong>, <strong>React</strong>, and <strong>Angular</strong>. With over 3 years of professional experience, I design and develop scalable web applications and robust RESTful APIs. I excel in optimizing database performance, embracing modern DevOps practices, and applying proven design patterns to deliver efficient, maintainable solutions.
-</p>
+###
 
-<p align="left">
-Explore my GitHub to see how I transform innovative ideas into high-quality code.
-</p>
+<p align="left">I'm Zeyad Wael Abdallah – a dedicated Software Engineer specializing in .NET and React and Angular. With over 3 years of experience, I design and build scalable web applications and robust RESTful APIs. I thrive on optimizing database performance, implementing DevOps practices, and applying proven design patterns to create efficient, maintainable solutions. Welcome to my GitHub, where my passion for quality software development comes to life.</p>
+
+###
 
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZeyadWaell&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ZeyadWaell&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=buefy&hide_border=true&order=2" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ZeyadWaell&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ZeyadWaell&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=buefy&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
-<br>
+###
 
-<img src="https://raw.githubusercontent.com/ZeyadWaell/ZeyadWaell/output/snake.svg" alt="Snake Animation" />
+<img src="https://raw.githubusercontent.com/ZeyadWaell/ZeyadWaell/output/snake.svg" alt="Snake animation" />
 
-<br>
+###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
 </div>
 
-<br>
+###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo" />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="Twitter logo" />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="Discord logo" />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="YouTube logo" />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
 </div>
 
-<br>
+###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/ZeyadWaell/count.svg?" alt="Profile Counter" />
+  <img src="https://profile-counter.glitch.me/ZeyadWaell/count.svg?"  />
 </div>
 
-<br>
+###
 
 <div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=ZeyadWaell&theme=dark" alt="Latest Medium Posts" />
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=ZeyadWaell&theme=dark" alt="Layout with last medium posts"  />
 </div>
+
+###
