@@ -132,4 +132,3 @@ Each .NET architecture serves a unique purpose depending on your project's size,
 - **Hexagonal Architecture:** Best for systems requiring high modularity and testability.
 - **Layered & Three-Tier Architectures:** Suitable for traditional application development.
 
-Feel free to contribute by opening a Pull Request or suggesting improvements. Happy coding!
