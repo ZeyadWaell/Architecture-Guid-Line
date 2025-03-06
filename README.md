@@ -1,4 +1,3 @@
-````markdown
 # .NET Software Architectures Guide
 
 Welcome to the **.NET Software Architectures Guide** repository! This guide covers multiple architectural styles used in .NET development to promote **maintainability, testability, and scalability**.
